@@ -22,7 +22,7 @@
 # print(dict.values())
 # print(dict["age"])
 # print(dict.get("name"))
-l=[1,2,3,4,5,3]
-l.remove(3)
-l.pop(4)
-l.append(6)
+# l=[1,2,3,4,5,3]
+# l.remove(3)
+# l.pop(4)
+# l.append(6)
